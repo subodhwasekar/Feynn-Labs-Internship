@@ -1,0 +1,158 @@
+﻿Vehicle type,Model,Battery technology,Charging type,Battery capacity (kWh)
+2W, Electric Photon HX,Li-Ion,"AC slow
+charging",1.872
+2W,"Nyx HX (Dual
+Battery)",Li-Ion,"AC slow
+charging",3.072
+2W,NYX LX,Li-Ion,"AC slow
+charging",1.536
+2W,"OPTIMA LX
+(VRLA)",VRLA,"AC slow
+charging",0.96
+2W,Optima LX,Li-Ion,"AC slow
+charging",1.536
+2W,"OPTIMA HX
+(Dual Battery)",Li-Ion,"AC slow
+charging",3.072
+2W,"OPTIMA
+HX (Single
+Battery)",Li-Ion,"AC slow
+charging",1.536
+2W,"Flash LX
+(VRLA)",VRLA,"AC slow
+charging",0.96
+2W,Flash LX,Li-Ion,"AC slow
+charging",1.536
+2W,Atria LX,Li-Ion,"AC slow
+charging",1.536
+2W,S1,Li-Ion,"AC slow and
+Hypercharger
+(fast)",2.98
+2W,S1 Pro,Li-Ion,"AC slow and
+Hypercharger
+(fast)",3.97
+2W,Ridge+,Li-Ion,"AC slow
+charging",1.74
+2W,iPraise+,Li-Ion,"AC slow
+charging",3.3
+2W,PraisePro,Li-Ion,"AC slow
+charging",2
+2W,Lite,Li-Ion,"AC slow
+charging",1.25
+2W,R30,Li-Ion,"AC slow
+charging",1.34
+2W,Dual,Li-Ion,"AC slow
+charging",2.64
+2W,Zeal EX,Li-Ion,AC slow charging,1.8
+2W,Magnus,Li-Ion,AC slow charging,1.68
+2W,Reo Plus (VRLA),VRLA,AC slow charging,1.296
+2W,Reo Plus (Li-Ion),Li-Ion,AC slow charging,1.344
+2W,Reo (VRLA),VRLA,AC slow charging,0.96
+2W,Reo (Li-Ion),Li-Ion,AC slow charging,1.152
+2W,Reo Elite (VRLA),VRLA,AC slow charging,1.296
+2W,Reo Elite (Li-Ion),Li-Ion,AC slow charging,1.344
+2W,V48,VRLA,AC slow charging,1.296
+2W,Magnus 60,VRLA,AC slow charging,1.296
+2W,ATHER 450X,Li-Ion,AC slow and DC fast charging,2.9
+2W,Ather 450 Plus,Li-Ion,AC slow and DC fast charging,2.9
+2W,RV300,Li-Ion,AC slow charging,2.7
+2W,RV400,Li-Ion,AC slow charging,3.24
+2W,SPOCk,Li-Ion,AC slow charging,2.8
+2W,iQUBE ELECTRIC,Li-NMC,AC slow charging,2.25
+2W,Aura,Li-NMC,AC slow charging,2.8
+2W,Falcon (VRLA),VRLA,AC slow charging,1.2
+2W,Falcon (Li-Ion),Li-Ion,AC slow charging,1.32
+2W,Kriti (VRLA),VRLA,AC slow charging,0.96
+2W,Kriti (Li-Ion),Li-Ion,AC slow charging,1.152
+2W,Icon (VRLA),VRLA,AC slow charging,1.2
+2W,Icon (Li-Ion),Li-Ion,AC slow charging,1.32
+2W,JMT1000 HS,Li-Ion,AC slow charging,2.04
+2W,JMT1000,VRLA,AC slow charging,
+2W,JET 250XL,Li-Ion,AC slow charging,
+2W,JET 250XL+,Li-Ion,AC slow charging,
+2W,Civitas,Li-Ion,,2.088
+2W,E Gen,Li-Ion,AC slow,"
+1.024"
+2W,T 133,Li-NMC,AC slow charging,2.4
+2W,Storm ZX Plus,Li-NMC,AC slow charging,2.4
+2W,TEM G33,Li-NMC,AC slow charging,2.4
+2W,RomaS,Li-NMC,AC slow charging,2.4
+2W,Tz 3.3,Li-NMC,AC slow charging,2.9
+2W,Chetak,Li-Ion,AC slow charging,3
+3W,Treo Yaari,Li-Ion,AC slow,3.69
+3W,Treo HRT,Li-Ion,AC slow,7.37
+3W,Treo ZOR,Li-Ion,AC slow,7.37
+3W,NARAIN i,Li-Ion,,3.8
+3W,NARAIN iCE,Li-Ion,,3.8
+3W,Humsafar iB,Li-Ion,,7.6
+3W,Kinetic DX,VRLA Tubular,AC slow,-
+3W,Kinetic Safar Smart,Li-Ion,AC slow,4.1
+3W,Ape E-Xtra Fixed battery,Li-Ion,AC slow,
+3W,Ape E-City Swappable battery,Li-Ion,Battery Swap,8
+3W,Apex E-Xtra LDR + FX PU,Li-Ion,,
+3W,Ape E-City/ Fixed battery,Li-Ion,AC slow,4.5
+3W,Saarathi Star,Li-Ion,AC slow,8.1
+3W,Saarathi Shavak e-auto,Li-Ion,AC slow,8.1
+3W,Queen,-,AC slow,-
+3W,Prince,Li-Ion,AC slow,3.7
+3W,Samrat Garbage,Li-Ion,AC slow,4.3
+3W,Bahubali,VRLA,AC slow,5.76
+3W,Bahubali Plus,VRLA,AC slow,6.24
+3W,Bahubali Loader,VRLA,AC slow,5.76
+3W,UTTAM,-,AC slow,1.01
+3W,E SATHI,Li-Ion,-,-
+3W,Atut Shakti,VRLA,AC slow,3.84
+3W,Virat Shakti,VRLA,AC slow,3.84
+3W,Masoori Shakti,-,AC slow,-
+3W,Atut Shakti Cargo,VRLA,AC slow,3.84
+3W,SPEEGO,VRLA,AC slow,-
+3W,SPEEGO CR,VRLA,AC slow,-
+3W,SPEEGO DLX,VRLA,AC slow,-
+3W,MORNI DLX,VRLA,AC slow,-
+3W,SPEEGO DLX Li,Li-Ion,-,4.4
+3W,ARNA 100,VRLA,AC slow,4.8
+3W,ARNA 100 CARGO,VRLA,AC slow,4.8
+3W,A STAR LDR,VRLA,AC slow,3.6
+3W,A STAR 900,VRLA,AC slow,3.6
+3W,M2J,VRLA,AC slow,-
+3W,M2J CARGO,VRLA,AC slow,-
+3W,EWA ECO FRIENDLY,VRLA,AC slow,3.5
+3W,EWA ECO FRIENDLY LOADER,,AC slow,
+3W,SAARAS,VRLA,-,3.5
+3W,VICTORY,-,AC slow,3.84
+3W,VICTORY VIKRANT,Li-Ion,AC slow,5.2
+3W,VICTORY VIJETA,Li-Ion,AC slow,5.2
+3W,VICTORY SUMFOIL,Li-Ion,AC slow,5.2
+3W,VICTORY Bhim,Li-Ion,AC slow,5.2
+3W,VICTORY Bhim CLEANER+,Li-Ion,AC slow,5.2
+3W,KOOZIE ER,Li-Ion,AC slow,5.2
+3W,E PARIVAHAN,VRLA,AC slow,4.8
+3W,Mini Metro,VRLA,AC slow,3.84
+3W,THOR,VRLA,AC slow,7.2
+3W,DON,VRLA,AC slow,7.2
+3W,SHAHENSHAH,VRLA,AC slow,4.8
+3W,RICHLOOK,VRLA,AC slow,7.2
+3W,Motrac Raftaar,VRLA,AC slow,4.8
+3W,Motrac Loader,VRLA,AC slow,4.08
+3W,SKYRIDE ER,VRLA,AC slow,5.76
+3W,SKYRIDE E-Cart,VRLA,AC slow,5.76
+3W,Swastik,VRLA,AC slow,
+3W,VEER,VRLA,AC slow,4.8
+3W,VEER CARGO,VRLA,AC slow,4.8
+4W,"
+
+KONA",Li-Ion,AC/DC charging,39.2
+4W,Nexon EV,Li-Ion,AC/DC charging,30.2
+4W,Tigor EV 2021,Li-Ion,AC/DC charging,26
+4W,e20 Plus P6,Li-Ion,AC/DC charging,10.8
+4W,e-Verito D6,Li-Ion,AC/DC charging,18.55
+4W,e-Supro Cargo Van,Li-Ion,AC/DC charging,14.4
+4W,ZS EV,Li-Ion,AC/DC charging,44.5
+4W,EQC,Li-Ion,AC/DC charging,80
+4W,"
+
+i-Pace",Li-Ion,AC/DC charging,90
+4W,iX,Li-Ion,AC/DC charging,76.6
+4W,e-Tron GT,Li-Ion,AC/DC charging,83.7
+4W,RS e-Tron GT,Li-Ion,AC/DC charging,93.4
+4W,Saarathi Golf Cart,Li-Ion,AC/DC charging,8.1
